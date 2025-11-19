@@ -13,9 +13,6 @@ Education
 ======
 * M.Sc. in Computational Science, University of Vienna, 2026 (expected)
 * B.Sc. in Computer Science with Honors, University of Illinois at Urbana-Champaign, 2020
-  * Relevant coursework: Data Structures, Intro to Computational Linguistics, Numerical Methods, Intro to Algorithms and Models of Computation, Text Information Systems, Intro to Bioinformatics
-  * Study abroad: Comillas Pontifical University (Madrid, Spain, Summer 2017), National Taiwan University (Taipei, Taiwan, Fall 2019)
-  * Organizations and projects: President of Theta Tau Professional Engineering Fraternity, HackIllinois winner
 
 Work experience
 ======
